@@ -22,7 +22,7 @@ This workflow automates the entire data collection process:
 
 ### Main Workflow
 
-![Workflow](assets/workflow-overview.png)
+![Workflow](images/workflow-overview.png)
 
 ---
 
@@ -67,8 +67,8 @@ Collects Google Maps business data using Apify.
 
 Cleans and formats the collected data.
 
-![Data Processing](assets/data-processing.png)
-![Data Processing](assets/data-processing2.png)
+![Data Processing](images/data-processing.png)
+![Data Processing](images/data-processing2.png)
 
 ### 4️⃣ Google Sheets Integration
 
