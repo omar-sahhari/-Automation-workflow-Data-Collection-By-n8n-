@@ -59,8 +59,6 @@ Telegram Document Delivery
 
 Receives user input and starts the workflow.
 
-![Telegram Trigger]()
-
 ### 2️⃣ Apify API Request
 
 Collects Google Maps business data using Apify.
