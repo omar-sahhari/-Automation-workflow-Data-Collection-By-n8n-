@@ -96,7 +96,7 @@ Sends the final report or document back to Telegram
 
 ```text
 .
-├── assets/
+├── images/
 ├── workflow.json
 └── README.md
 ```
@@ -117,4 +117,4 @@ Sends the final report or document back to Telegram
 
 **Omar Sahhari**
 
-Data • AI • Automation Systems
+Data • AI & Automation Systems
